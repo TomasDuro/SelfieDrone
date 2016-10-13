@@ -12,7 +12,7 @@ Code for the three trackers used in this work. The code for KCF and Struck suffe
 
 ## Matlab
 
-The prototype code of the Pocket Track as well as the code used to build data sets and train the parameters of the detector, respectively PocketTracker.m, PocketAnnotate.m and PocketTrainer.
+The prototype code of the Pocket Track as well as the code used to build data sets and train the parameters of the detector, respectively PocketTracker.m, PocketAnnotate.m and PocketTrainer.m.
 
 ## Paparazzi
 
